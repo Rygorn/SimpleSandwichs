@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "simplesandwichs:items/sandwichknife"
+    "layer0": "simplesandwichs:items/sandwich_knife"
   }
 }
